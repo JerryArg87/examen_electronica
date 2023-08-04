@@ -1,0 +1,6 @@
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.EntityLayer\bin\Debug\ELEC.EntityLayer.dll
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.EntityLayer\bin\Debug\ELEC.EntityLayer.pdb
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.EntityLayer\obj\Debug\ELEC.EntityLayer.csproj.AssemblyReference.cache
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.EntityLayer\obj\Debug\ELEC.EntityLayer.csproj.CoreCompileInputs.cache
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.EntityLayer\obj\Debug\ELEC.EntityLayer.dll
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.EntityLayer\obj\Debug\ELEC.EntityLayer.pdb

@@ -1,0 +1,11 @@
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.BusinessLayer\bin\Debug\ELEC.BusinessLayer.dll
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.BusinessLayer\bin\Debug\ELEC.BusinessLayer.pdb
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.BusinessLayer\bin\Debug\ELEC.DataLayer.dll
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.BusinessLayer\bin\Debug\ELEC.EntityLayer.dll
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.BusinessLayer\bin\Debug\ELEC.DataLayer.pdb
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.BusinessLayer\bin\Debug\ELEC.EntityLayer.pdb
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.BusinessLayer\obj\Debug\ELEC.BusinessLayer.csproj.AssemblyReference.cache
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.BusinessLayer\obj\Debug\ELEC.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.BusinessLayer\obj\Debug\ELEC.BusinessLayer.csproj.CopyComplete
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.BusinessLayer\obj\Debug\ELEC.BusinessLayer.dll
+D:\Documentos\WORK\electronica\ELEC.WebForm\ELEC.BusinessLayer\obj\Debug\ELEC.BusinessLayer.pdb
